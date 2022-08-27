@@ -111,7 +111,7 @@ async def private_receive_handler(c: Client, m: Message):
 
 <b>📦 Fɪʟᴇ ꜱɪᴢᴇ :</b> <i>{}</i>
 
-<b>📥 Dᴏᴡɴʟᴏᴀᴅ :</b> <i>{}</i>
+<b>📥 Dᴏᴡɴʟᴏᴀᴅ :</b> <code>{}</code>
 
 <b> 🖥WATCH  :</b> <i>{}</i>
 
